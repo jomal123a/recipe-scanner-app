@@ -1,0 +1,1 @@
+In order to run an app you need to acquire mindee api key and put it to the key.txt file
